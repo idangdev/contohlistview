@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">contohlistview</string>
+    <string-array name="smartphone_array">
+        <item>Nokia</item>
+        <item>Nexus</item>
+        <item>Iphone</item>
+        <item>Samsung</item>
+        <item>Asus</item>
+        <item>Xiaomi</item>
+        <item>Oppo</item>
+        <item>Vivo</item>
+
+    </string-array>
+
+</resources>
